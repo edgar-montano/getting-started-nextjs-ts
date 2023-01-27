@@ -1,0 +1,15 @@
+.container {
+    margin: 8px;
+    padding: 8px;
+    border: 4px dashed #003b00;
+    background-color: #00ff41;
+}
+
+.title {
+    letter-spacing: 1rem;
+    color: #0d0208;
+}
+
+.text {
+    color: #34495e;
+}
